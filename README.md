@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm Ahmet Yahya [Conquestor] 👋</h1>
-
-
-
+<h1 align="center">Hi, I'm Ahmet Yahya [Conquestor].I make stuff. I break stuff. Any questions?👋</h1>
 
 
 :shipit: ```I'm someone who's passionate about Hacking and Writing Code``` 
