@@ -1,4 +1,4 @@
-## Hi, I'm Yahya [Conquestor].I make stuff. I break stuff. Any questions?
+## Hi, I'm Yahya [Conquestor]. I make stuff. I break stuff.
 
 
 :shipit: ```I'm someone who's passionate about Hacking and Writing Code``` 
