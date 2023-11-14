@@ -1,4 +1,4 @@
-## Hi, I'm Yahya [Conquestor]. 
+## Hi, I'm Yahya. 
 
 
 :shipit: ```I'm someone who's passionate about Hacking and Coding``` 
